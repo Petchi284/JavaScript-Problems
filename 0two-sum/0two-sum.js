@@ -11,5 +11,4 @@ var twoSum = function(nums, target) {
             }
         }
     }
-     return [i,j]
 };
